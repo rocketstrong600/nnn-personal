@@ -5166,7 +5166,7 @@ static void show_help(const char *path)
 		  "c.  Toggle hidden%05Alt+Esc  Unfilter, quit context\n"
 	"0\n"
 	"1FILES\n"
-	       "9k ^K  Open with%15n  Create new/link\n"
+	       "9k ^K  Open with%15h  Create new/link\n"
 	       "9f ^F  File stats%14d  Detail mode toggle\n"
 		 "b^R  Rename/dup%14r  Batch rename\n"
 		  "cz  Archive%17j  Edit file\n"
